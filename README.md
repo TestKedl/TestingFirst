@@ -1,4 +1,3 @@
 # TrainingBack
 
 Учебный проект.
-sss
