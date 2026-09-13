@@ -27,3 +27,4 @@ class BookCreate(BaseModel):
 class BookResponse(BookCreate):
     id:int
     added_at:datetime
+    age:int
