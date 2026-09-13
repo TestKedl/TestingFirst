@@ -1,3 +1,3 @@
 # TrainingBack
-s
+
 Учебный проект.
